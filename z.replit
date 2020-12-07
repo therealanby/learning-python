@@ -1,0 +1,9 @@
+run = "python main.py"
+#in real python, this is the command to run a python file
+#in a .replit file, run is the string copied to the terminal when you hit the run button
+#therefore, to change the file that runs when you hit the run button, just change main.py to filename.py
+
+
+#Essey: in nim, I would use the run variable to automate fiddling with the compiler instead of having to write everything out everytime
+
+#Andy: it works with java too. run = "java name.java"

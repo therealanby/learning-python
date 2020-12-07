@@ -1,0 +1,31 @@
+and
+as (alias?)
+assert (debugging)
+break (break out of loop)
+class (create class)
+continue
+def (create a function)
+del  (deletes an object)
+elif
+else
+try...except...[finally] (try catch basically)
+False
+for
+from (importation)
+global (variable)
+if
+import (importation)
+in
+is
+lamba (anonymous function)
+None (null value)
+nonlocal (nonlocal variable declaration)
+not
+or
+pass (return statement but doesn't return anything)
+raise (throw error basically)
+return 
+True
+while
+with (exception stuff)
+yield (ends a function, returns a generator?)
